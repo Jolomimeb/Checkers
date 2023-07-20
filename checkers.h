@@ -1,4 +1,3 @@
-// UMBC - CMSC 341 - Spring 2023 - Proj0
 #ifndef CHECKERS_H
 #define CHECKERS_H
 #include <iostream>
