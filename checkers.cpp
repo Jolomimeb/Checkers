@@ -1,20 +1,3 @@
-/*****************************************
- ** File:    checkers.cpp
- ** Project: CMSC 341 Project 0, Spring 2023
- ** Author:  Oritsejolomisan Mebaghanje
- ** Date:    02/11/23
- ** E-mail:  xz94254@umbc.edu
- **
- ** This file contains the program for checkers.cpp .
- **
- **
- **
- **
- **
- **
- **
- ***********************************************/
-
 #include "checkers.h"
 Checkers::Checkers() {
   m_numRows = 0;
